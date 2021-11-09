@@ -11,3 +11,4 @@ Here is material related to my EDS 124BR course:
 - Week 3 Program Explanation - Monkey Game: https://www.youtube.com/watch?v=7PQ9S3gKPvc
 - Week 4 Program Explanation - Shape Variables: https://youtu.be/k0G7bpEEAhc
 - Week 5 Program Explanation - Conditional Loops: https://youtu.be/y_qiGXIhDIU
+- Week 6 Program Explanation - If statements: https://youtu.be/bHZZwksRj2M
