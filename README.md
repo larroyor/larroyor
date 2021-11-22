@@ -13,3 +13,4 @@ Here is material related to my EDS 124BR course:
 - Week 5 Program Explanation - Conditional Loops: https://youtu.be/y_qiGXIhDIU
 - Week 6 Program Explanation - If statements: https://youtu.be/bHZZwksRj2M
 - Week 7 Program Explanation - Nested If-else: https://youtu.be/4La01KPLWN8
+- Week 8 Program Explanation - Compound Conditionals: https://youtu.be/fDE2ON6joGg
